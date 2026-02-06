@@ -26,18 +26,6 @@ A fully autonomous, offline-first Flutter application designed for retail kiosks
 * **File System:** `path_provider`, `archive`, `excel`
 * **UI:** Glassmorphism effects (`dart:ui`), Custom Animations, Google Fonts
 
-## 📦 How to Build
-
-1.  Clone the repository.
-2.  Install dependencies:
-    ```bash
-    flutter pub get
-    ```
-3.  Run the app:
-    ```bash
-    flutter run
-    ```
-
 ## 📱 Permissions
 
 The app requires the following permissions to function correctly:
