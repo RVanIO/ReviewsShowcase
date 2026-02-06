@@ -3,9 +3,9 @@
 A fully autonomous, offline-first Flutter application designed for retail kiosks to collect customer feedback. Features a glassmorphism UI, silent camera capture for security, and a robust data export system (Excel + Photos zipped).
 
 <p align="center">
-  <img src="assets/Screenshot1.png" width="22%" alt="Main Screen" style="border-radius: 10px; margin: 10px;" />
-  <img src="assets/Screenshot2.png" width="22%" alt="Success Screen" style="border-radius: 10px; margin: 10px;" />
-  <img src="assets/Screenshot3.png" width="22%" alt="Admin Panel" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/18632845-7d26-4c89-befd-fbdc5ce062c8" width="22%" alt="Main Screen" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/dd6fb900-1990-4426-bb69-f03612b7f7d7" width="22%" alt="Success Screen" style="border-radius: 10px; margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/7f7bd5dc-0244-4a97-98b6-d6fe4816204f" width="22%" alt="Admin Panel" style="border-radius: 10px; margin: 10px;" />
 </p>
 ## 🚀 Key Features
 
